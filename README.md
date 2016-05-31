@@ -1,23 +1,14 @@
-# ReduxSimpleStarter
+# Weather Search
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+###
 
-###Getting Started###
+This app represents a blog with multiple routes, it communicates with a RESTful API which provides with data handling.
 
-There are two methods for getting started with this repo.
+It includes a starter package setup with redux, as well as API access for route provider.
 
-####Familiar with Git?#####
-Checkout this repo, install depdencies, then start the gulp process with the following:
+###
 
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+# Getting Started
 
 ```
 	> npm install
