@@ -1,7 +1,7 @@
 {
   "name": "app-name",
   "version": "1.0.0",
-  "description": "A starter app with Redux, React and Babel support",
+  "description": "",
   "main": "index.js",
   "repository": "git@github.com:awg3/ReduxSimpleStarter.git",
   "scripts": {
@@ -9,7 +9,7 @@
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch"
   },
-  "author": "",
+  "author": "Alan Guerrero",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
